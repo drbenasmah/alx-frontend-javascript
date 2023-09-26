@@ -2,10 +2,10 @@
   "name": "0x00-es6_basic",
   "version": "1.0.0",
   "description": "First JS repo in frontend specialization",
-  "main": "0-constants.js",
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+    "test": "jest",
+    "dev": "node "
   },
   "keywords": [],
   "author": "Ben Asmah",

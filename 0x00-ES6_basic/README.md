@@ -1,1 +1,1 @@
-First JS repo in frontend specialization
+0x00. ES6 Basics

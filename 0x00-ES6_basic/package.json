@@ -1,12 +1,8 @@
 {
-  "name": "0x00-es6_basic",
-  "version": "1.0.0",
-  "description": "First JS repo in frontend specialization",
-  "type": "module",
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
     "check-lint": "lint [0-9]*.js",
-    "dev": "node",
+    "dev": "npx babel-node",
     "test": "jest",
     "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest"
   },

@@ -1,0 +1,20 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "First JS repo in frontend specialization",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "keywords": [],
+  "author": "Ben Asmah",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.22.15",
+    "eslint": "^8.50.0"
+  }
+}
